@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Tesmi</a> 
+<h1 align="center">Hi there, I'm <a href="https://github.com/Tesmi-Develop" target="_blank">Tesmi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 !["Stats"](https://github-readme-stats.vercel.app/api?username=Tesmi-Develop\&rank_icon=github)
