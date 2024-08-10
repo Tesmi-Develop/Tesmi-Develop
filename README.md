@@ -1,2 +1,2 @@
-## My stats
-![Top langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesmi-Develop&theme=gruvbox&layout=donut)
+![](https://github-readme-stats.vercel.app/api?username=Tesmi-Develop\&rank_icon=github)
+![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Tesmi)
