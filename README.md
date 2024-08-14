@@ -1,8 +1,10 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tesmi-Develop" target="_blank">Tesmi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-!["Stats"](https://github-readme-stats.vercel.app/api?username=Tesmi-Develop\&rank_icon=github)
-!["Top Langs"](https://github-readme-stats.vercel.app/api/top-langs/?username=Tesmi-Develop\&layout=donut)
+<div style="display: flex; justify-content: center; ">
+    <img src="https://github-readme-stats.vercel.app/api?username=Tesmi-Develop&theme=merko"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesmi-Develop&theme=merko&include_all_commits=false&count_private=false"/>
+</div>
 
 ---
 
