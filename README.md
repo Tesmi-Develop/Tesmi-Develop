@@ -4,6 +4,7 @@
 <div style="display: flex; justify-content: center; ">
     <img src="https://github-readme-stats.vercel.app/api?username=Tesmi-Develop&theme=merko"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesmi-Develop&theme=merko&include_all_commits=false&count_private=false"/>
+    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tesmi&theme=merko"/>
 </div>
 
 ---
