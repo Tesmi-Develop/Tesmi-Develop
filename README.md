@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm <a href="https://github.com/Tesmi-Develop" target="_blank">Tesmi</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
-<div style="display: flex; justify-content: center; ">
+<div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Tesmi-Develop&theme=merko"/>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tesmi-Develop&theme=merko&include_all_commits=false&count_private=false"/>
     <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Tesmi&theme=merko"/>
